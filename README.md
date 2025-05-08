@@ -37,10 +37,10 @@ Vite: For fast development and build tooling.
 </pre>
 Getting Started
 
-Clone the repository:git clone <repository-url>
+Clone the repository:git https://github.com/Vishwanathangit/Basic-Component-UI-React.git
 
 
-Navigate to the project directory:cd tech-website
+Navigate to the project directory:cd "Component UI"
 
 
 Install dependencies:npm install
